@@ -1,0 +1,191 @@
+def llamada(letra):
+    if letra == 'q':
+        Q()
+    elif letra == 'w':
+        W()
+    elif letra == 'e':
+        E()
+    elif letra == 'r':
+        R()
+    elif letra == 't':
+        T()
+    elif letra == 'y':
+        Y()
+    elif letra == 'u':
+        U()
+    elif letra == 'i':
+        I()
+    elif letra == 'o':
+        O()
+    elif letra == 'p':
+        P()
+    elif letra == 'a':
+        A()
+    elif letra == 's':
+        S()
+    elif letra == 'd':
+        D()
+    elif letra == 'f':
+        F()
+    elif letra == 'g':
+        G()
+    elif letra == 'h':
+        H()
+    elif letra == 'j':
+        J()
+    elif letra == 'k':
+        K()
+    elif letra == 'l':
+        L()
+    elif letra == 'ñ':
+        ENE()
+    elif letra == 'z':
+        Z()
+    elif letra == 'x':
+        X()
+    elif letra == 'c':
+        C()
+    elif letra == 'v':
+        V()
+    elif letra == 'b':
+        B()
+    elif letra == 'n':
+        N()
+    elif letra == 'm':
+        M()
+
+
+def Q():
+    pt.click((900, 815))
+
+def W():
+
+def E():
+
+def R():
+
+def T():
+
+def Y():
+
+def U():
+
+def I():
+
+def O():
+
+def P():
+
+def A():
+
+def S():
+
+def D():
+
+def F():
+
+def G():
+
+def H():
+
+def J():
+
+def K():
+
+def L():
+
+def ENE():
+
+def Z():
+
+def X():
+
+def C():
+
+def V():
+
+def B():
+
+def N():
+
+def M():
+
+
+
+keyboard1 = ["Q","W","E","R","T","Y","U","I","O","P"]
+keyboard2 = ["A","S","D","F","G","H","J","K","L","Ñ"]
+keyboard3 = ["Z","X","C","V","B","N","M"]
+
+
+
+
+    num9()
+    sumar()
+    num9()
+    igual()
+    sumar()
+    runK(no0)
+    multiplicar()
+    num9()
+    igual()
+    if no2<9:
+        sumar()
+        runK(no2)
+        igual()
+    multiplicar()
+    num9()
+    igual()
+    if no3<9:
+        sumar()
+        runK(no3)
+        igual()
+
+
+ if palabra== "Acto histérico por el":
+        pala_limpia=['a', 'c', 'd', 'e', 'f', 'g', 'i', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u']
+    elif palabra == "Douglas MacArthur f":
+        pala_limpia=['a', 'c', 'd', 'e', 'g', 'i', 'j', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u']
+    elif palabra == "P T RTCY - UTA":  ###
+        pala_limpia = ""
+    elif palabra == "£Qué era el bando Ur":
+        pala_limpia = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'i', 'l', 'm', 'n', 'o', 'q', 'r', 's', 'u']
+    elif palabra == "£Qué armada espaiio":  #Que armada espaniola es famosa y porque
+        pala_limpia = ['a', 'b', 'c', 'd', 'e', 'f', 'i', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 't', 'u', 'v']
+    elif palabra == "ZQuién fue Adolfo St": #Adolfo suarez
+        pala_limpia = ['a', 'c', 'd', 'e', 'f', 'i', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'ñ']
+    elif palabra == "Motivo por el que eni":
+        pala_limpia = ['a', 'b', 'c', 'd', 'e', 'h', 'i', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'x']
+    elif palabra == "P T R TCH B": #HARRY TRUMAN
+        pala_limpia = ['a', 'b', 'd', 'e', 'f', 'g', 'i', 'j', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'z']
+    elif palabra == "AT TER UK G B":  #TURQUIA
+        pala_limpia = ['a', 'b', 'c', 'd', 'e', 'f', 'i', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 'u', 'z']
+    elif palabra == "Motivo por el que es": #tratado tordesillas
+        pala_limpia = ['a', 'd', 'e', 'g', 'i', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'v', 'y', 'ñ']
+    elif palabra == "Por esta razon es far": #Mao Zedong
+        pala_limpia = ['a', 'c', 'd', 'e', 'g', 'h', 'i', 'l', 'm', 'n', 'o', 'r', 's', 't', 'u', 'v', 'y']
+    elif palabra == "Haiti es historicame:": #Haiti
+        pala_limpia = ['a', 'b', 'c', 'd', 'e', 'f', 'i', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'v']
+    elif palabra == "[T T T R LTI": #Cesar Augusto fue..
+        pala_limpia = ['a', 'b', 'c', 'd', 'e', 'f', 'i', 'j', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 'u']
+    elif palabra == "Suceso historico acc":
+        pala_limpia = ['a', 'b', 'd', 'e', 'l', 'n', 'o', 'p', 'q', 'r', 's', 'u', 'x', 'ñ']
+    elif palabra == "":
+        pala_limpia = ""        #HAY UNA DE QUIEN ES
+
+
+          elif palabra == "2Qué es el el Coliseo":
+        pala_limpia = ['']
+        pt.click((900, 885))
+        pt.click((1225, 940))
+        pt.click((1105, 940))
+        pt.click((1020, 885))
+        pt.click((1020, 830))
+        pt.click((1320, 830))
+        pt.click((1380, 885))
+        pt.click((1345, 940))
+        pt.click((1285, 940))
+        pt.click((1380, 830))
+        pt.click((1080, 830))
+        pt.click((960, 885))
+        pt.click((1140, 830))
+        pt.click((1260, 830))
